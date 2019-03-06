@@ -1,0 +1,21 @@
+{
+  "name": "js-new-features",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "symbols": "node symbols.js",
+    "iterator": "node iterator.js",
+    "generators": "node generators.js",
+    "generators2": "node generators2.js",
+    "generators3": "node generators3.js",
+    "asyncIterator": "node asyncIterator.js",
+    "asyncIterator2": "node asyncIterator2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
